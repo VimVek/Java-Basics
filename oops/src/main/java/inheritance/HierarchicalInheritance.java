@@ -23,3 +23,4 @@ class child3 extends HierarchicalInheritance{
         System.out.println("I am child 3");
     }
 }
+
